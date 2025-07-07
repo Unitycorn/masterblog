@@ -18,10 +18,70 @@ h1 {
     border-radius: 8px;
 }
 
+.post a{
+    text-decoration: none;
+    font-weight: lighter;
+    color: grey;
+    font-style: italic;
+    font-size: .9em;
+}
+
+.post a.delete{
+    float: right;
+    color: #fff;
+    background-color: red;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px
+}
+
 .post h2 {
     margin-top: 0;
 }
 
 .post p {
     margin: 10px 0;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+}
+
+.links a, form input[type="submit"]{
+    color: #fff;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 5px
+}
+
+form input[type="submit"]{
+    margin: 30px 279px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+form{
+    margin-top: 30px;
+}
+
+form input[type="text"]{
+    margin-bottom: 20px;
+}
+
+form input#title{
+    width: 600px;
+}
+
+form input#content{
+    width: 600px;
 }
