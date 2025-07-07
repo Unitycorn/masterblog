@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "author": "John Doe",
+        "title": "First Post",
+        "content": "This is my first post."
+    },
+    {
+        "id": 2,
+        "author": "Jane Doe",
+        "title": "Second Post",
+        "content": "This is another post."
+    },
+    {
+        "id": 4,
+        "author": "Julia",
+        "title": "i am back",
+        "content": "thought you can just delete me?"
+    },
+    {
+        "id": 5,
+        "author": "Jack",
+        "title": "i ilke trains",
+        "content": "seriously"
+    },
+    {
+        "id": 6,
+        "author": "John",
+        "title": "Some nice cheesecake recipees",
+        "content": "Lorem Ipsum, hah, gotcha!"
+    }
+]
