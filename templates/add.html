@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Add Blog Post</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
+<h1>Add Blog Post</h1>
 <form method="POST" action="/add">
     <label for="author">Username:</label><br>
     <input type="text" id="author" name="author"><br>

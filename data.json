@@ -20,13 +20,13 @@
     {
         "id": 5,
         "author": "Jack",
-        "title": "i ilke trains",
-        "content": "seriously"
+        "title": "i really like trains",
+        "content": "seriously, help me"
     },
     {
         "id": 6,
         "author": "John",
-        "title": "Some nice cheesecake recipees",
+        "title": "Some nice pie recipees",
         "content": "Lorem Ipsum, hah, gotcha!"
     }
 ]
